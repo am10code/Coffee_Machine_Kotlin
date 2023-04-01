@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: "checkEqual(s1 = \"abc\", s2 = \"aBc\", true)"
+- text: "checkEqual(\"abc\", \"ABC\", ignoreCase = true)"
+- text: "checkEqual(s2 = \"abc\", s1 = \"aBc\")"
+- text: "checkEqual(ignoreCase = true, \"abc\", \"ABC\")"
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4639#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 30 Mar 2023 21:06:20 UTC"
+record: -1
+selected_options:
+- 0
+- 1
+- 2
+local_check: false

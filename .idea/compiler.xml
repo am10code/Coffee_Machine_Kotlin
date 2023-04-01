@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-classes-java.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-classes-kotlin.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-generated-sources-annotationProcessor-java.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-generated-sources-headers-java.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-reports-tests.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-test-results.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-tmp.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-out.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Constructors-Implicit_constructor.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Constructors-Init_usage.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Constructors-Pets.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Constructors-Point2D.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Constructors-Theory.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Declaring_classes-Complex_numbers.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Declaring_classes-Composition.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Declaring_classes-New_planet.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Declaring_classes-Theory.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Declaring_classes-True_statements.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Default_arguments-Invocations.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Default_arguments-Polynomial.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Default_arguments-Print_Username.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Default_arguments-Theory.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-Currencies.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-Methods_and_parameters_of_Enum.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-The_rainbow_order.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-Theory.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Functional_decomposition-Calculator_with_four_functions.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Functional_decomposition-Decompose_a_math_function.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Functional_decomposition-Example_of_functional_decomposition.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Functional_decomposition-Roots_of_quadratic_equation.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Functional_decomposition-Theory.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Functional_decomposition-What_are_the_advantages_of_decomposing.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Arithmetic_operations.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Bugs_in_a_vinyl_store.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Keyword_to_declare_a_member_function.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Theory.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Volume_of_a_cube.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Named_arguments-Find_the_correct_invocations.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Named_arguments-Invocations.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Named_arguments-Perimeter.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Named_arguments-Theory.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Named_arguments-URL.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-When_expression-Just_checking.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-When_expression-Shape.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-When_expression-String_processor.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-When_expression-Theory.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).util.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
